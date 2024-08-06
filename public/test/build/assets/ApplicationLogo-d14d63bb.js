@@ -1,0 +1,1 @@
+import{o as r,f as s}from"./app-1aca18b0.js";const a=(o,t)=>{const c=o.__vccOpts||o;for(const[e,n]of t)c[e]=n;return c},_={},l={class:"w-20",src:"storage/logo.png",alt:""};function p(o,t){return r(),s("img",l)}const i=a(_,[["render",p]]);export{i as A};
